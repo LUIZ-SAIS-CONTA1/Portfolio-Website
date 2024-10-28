@@ -1,122 +1,97 @@
-[
-    {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+[{
+        "name": "Biología",
+        "icon": "https://img.icons8.com/?size=100&id=LIHqmvDi0lUk&format=png&color=000000"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Inmunología",
+        "icon": "https://img.icons8.com/?size=100&id=dNkwa3VSDv34&format=png&color=000000"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "name": "Histología",
+        "icon": "https://img.icons8.com/?size=100&id=E79VCgRtEoOf&format=png&color=000000"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "name": "Anatomía",
+        "icon": "https://img.icons8.com/?size=100&id=WDjwFnyNuTH9&format=png&color=000000"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "Obstetricia",
+        "icon": "https://img.icons8.com/?size=100&id=xDTAOx2pARN8&format=png&color=000000"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "Oftalmología",
+        "icon": "https://img.icons8.com/?size=100&id=e6GkJcP46Dip&format=png&color=000000"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Dermatología",
+        "icon": "https://img.icons8.com/?size=100&id=FJ7svdt7oys2&format=png&color=000000"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+        "name": "Infectología",
+        "icon": "https://img.icons8.com/?size=100&id=zAjoc1DskTAH&format=png&color=000000"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "name": "Epidemiología",
+        "icon": "https://img.icons8.com/?size=100&id=Y4hRV5FSWVCE&format=png&color=000000"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Microbiología",
+        "icon": "https://img.icons8.com/?size=100&id=56bwgXSrQ9TG&format=png&color=000000"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "name": "Parasitología",
+        "icon": "https://img.icons8.com/?size=100&id=t6aPx5q85Erb&format=png&color=000000"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "Anatopato",
+        "icon": "https://img.icons8.com/?size=100&id=P8tWjFLA0wIr&format=png&color=000000"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "name": "Fisiopato",
+        "icon": "https://img.icons8.com/?size=100&id=rEQWmRe87t04&format=png&color=000000"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "Libros",
+        "icon": "https://img.icons8.com/?size=100&id=FeTUPS79ouRw&format=png&color=000000"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "Artículos",
+        "icon": "https://img.icons8.com/?size=100&id=SLyEErG3AwF8&format=png&color=000000"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+        "name": "Folletos Revalida",
+        "icon": "https://img.icons8.com/?size=100&id=02d1ynZaCLY0&format=png&color=000000"
     },
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "name": "Clases de vídeo",
+        "icon": "https://img.icons8.com/?size=100&id=6vbDM8F0k8gJ&format=png&color=000000"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "Tutoría en línea",
+        "icon": "https://img.icons8.com/?size=100&id=vRHoq8MIvCid&format=png&color=000000"
     },
     {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "name": "Geomapas",
+        "icon": "https://img.icons8.com/?size=100&id=rl2JNFrKDBj1&format=png&color=000000"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "name": "Cirugía 3D",
+        "icon": "https://img.icons8.com/?size=100&id=68VujgTxyFgF&format=png&color=000000"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "Anotación digital",
+        "icon": "https://img.icons8.com/?size=100&id=alIcuZZ5oF3H&format=png&color=000000"
     },
     {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+        "name": "A.I. Mediciner",
+        "icon": "https://img.icons8.com/?size=100&id=b2rw9AoJdaQb&format=png&color=000000"
     },
     {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "name": "Sin enlace",
+        "icon": "https://img.icons8.com/?size=100&id=FPGCerWcKtFs&format=png&color=000000"
     },
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
-    {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+        "name": "Red de apoyo",
+        "icon": "https://img.icons8.com/?size=100&id=uvu3nbgVkAzM&format=png&color=000000"
+    }
 ]
